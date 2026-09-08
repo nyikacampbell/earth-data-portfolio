@@ -20,3 +20,8 @@ Though most of the world depends on plant ecosystems, our tools for predicting p
 * LinkedIn:[linkedin.com/in/nyika-campbell-a82125182](https://www.linkedin.com/in/nyika-campbell-a82125182)
 * Personal Website: [nyikacampbell.wixsite.com](https://nyikacampbell.wixsite.com/home)
 * ORCID: [0009-0001-6882-508X](https://orcid.org/0009-0001-6882-508X)
+
+#### My First Map
+Here is a map of the John Marr Lab at the university of Colorado, Boulder Mountain Research Station where some of my current projects are.
+
+<embed type="text/html" src="img/marlab.html" width=50%>
