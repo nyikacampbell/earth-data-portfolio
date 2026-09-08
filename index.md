@@ -1,7 +1,7 @@
 # Nyika Campbell
 ## *Earth Data Analytics Portfolio*
 <img
-  src="/img/Nyika_Campbell_headshot.jpg"
+  src="https://www.colorado.edu/instaar/sites/default/files/styles/large_image_style/public/2025-09/nyika-campbell.png?itok=VhvEsWPF"
   alt="Nyika Campbell standing in front of a colorful mural"
   width= "25%">
   
