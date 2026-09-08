@@ -1,5 +1,6 @@
 # Nyika Campbell
 ## *Earth Data Analytics Portfolio*
+![Nyika Campbell standing in front of a colorful mural](/img/Nyika_Campbell_headshot.jpg "Nyika Campbell")
 #### Masters Student, University of Colorado, Boulder
 #### *Based in Boulder, Colorado*
 
