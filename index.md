@@ -16,7 +16,8 @@ Working as a field ecologist in California, Idaho, Montana, and Colorado I’ve 
 Though most of the world depends on plant ecosystems, our tools for predicting plant community change are crude. Local-scale data collection is costly and current big-data frameworks do not effectively connect large-extent data to management needs. I am excited to use Earth Data Science to bridge this gap by linking local-scale plant community data with broad-extent environmental data to better capture the complexity of ecosystem interactions. I hope to leverage Earth Data Science to illuminate trends though space and time, developing a scalable, cost-effective way to anticipate ecosystem change and support data-driven management practices, specifically around plant community ecology.
 
 #### Follow my work!
-* GitHub: <a
+* GitHub:
+<a
   href="https://github.com/nyikacampbell"
   target="_blank"
   github.com/nyikacampbell
