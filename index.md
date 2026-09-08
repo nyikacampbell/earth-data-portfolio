@@ -24,4 +24,4 @@ Though most of the world depends on plant ecosystems, our tools for predicting p
 #### My First Map
 Here is a map of the John Marr Lab at the university of Colorado, Boulder Mountain Research Station where some of my current projects are.
 
-<embed type="text/html" src="img/marrlab.html" width="100%" height="100%">
+<embed type="text/html" src="img/marrlab.html" width="100%" height="600">
