@@ -23,12 +23,20 @@ Though most of the world depends on plant ecosystems, our tools for predicting p
 
 
 ## Class Assignments
-Below are summaries of some of my class assignments. Read more about each assignment below
-----
+*Below are summaries of some of my class assignments. Read more about each assignment below*
+
 #### My First Map
 Here is a map of the John Marr Lab at the university of Colorado, Boulder Mountain Research Station where some of my current projects are.
 
 <embed type="text/html" src="img/marrlab.html" width="100%" height="600">
 
 ----
-#### Temperature Trends in Missoula, Montana
+#### [Temperature Trends in Missoula, Montana]()
+
+<embed type="text/html" src="img/post_nyika-campbell-perscribed-burn.JPG" width="100%" height="600">
+
+Incomplete temperature data in Missoula, Montana makes long-term analysis difficult. Rcent daily means show a slight cooling since 2002, however longer-term min/max data shows predictable warming. Read the full post more about Nyika's past work in with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here]()
+
+<embed type="text/html" src="img/missoula2_minmax" width="100%" height="600">
+
+----
