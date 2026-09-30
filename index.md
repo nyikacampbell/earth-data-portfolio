@@ -35,7 +35,7 @@ Here is a map of the John Marr Lab at the university of Colorado, Boulder Mounta
 
 <img src="img/post_climate_nyika-campbell-perscribed-burn.JPG" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
-Missoula, Montana has been warming about one-fith of a degree C per decade (0.02 degrees C per year) since 2002. Additionally, longer-term min/max data from 1950 to present shows a similar steady warming trend. These warmer temperatures could contribut to more sever fire in the state. Read the full post about Nyika's past work with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
+Missoula, Montana has been warming about one-fith of a degree C per decade (0.02 degrees C per year) since 2002. Additionally, longer-term min/max data from 1950 to present shows a similar steady warming trend. These warmer temperatures could contribute to more severe fire in the state. Read the full post about Nyika's past work with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
 
 <img src="img/post_climate_missoula-fig.jpeg" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
