@@ -21,7 +21,14 @@ Though most of the world depends on plant ecosystems, our tools for predicting p
 * Personal Website: [nyikacampbell.wixsite.com](https://nyikacampbell.wixsite.com/home)
 * ORCID: [0009-0001-6882-508X](https://orcid.org/0009-0001-6882-508X)
 
+
+## Class Assignments
+Below are summaries of some of my class assignments. Read more about each assignment below
+----
 #### My First Map
 Here is a map of the John Marr Lab at the university of Colorado, Boulder Mountain Research Station where some of my current projects are.
 
 <embed type="text/html" src="img/marrlab.html" width="100%" height="600">
+
+----
+#### Temperature Trends in Missoula, Montana
