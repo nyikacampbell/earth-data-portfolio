@@ -37,6 +37,6 @@ Here is a map of the John Marr Lab at the university of Colorado, Boulder Mounta
 
 Incomplete temperature data in Missoula, Montana makes long-term analysis difficult. Rcent daily means show a slight cooling since 2002, however longer-term min/max data shows predictable warming. Read the full post more about Nyika's past work in with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
 
-<embed type="text/html" src="img/post_climate_missoula2-minmax" width="100%" height="600">
+<embed type="text/html" src="img/post_climate_missoula2-minmax.html" width="100%" height="600">
 
 ----
