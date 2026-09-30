@@ -35,7 +35,7 @@ Here is a map of the John Marr Lab at the university of Colorado, Boulder Mounta
 
 <img src="img/post_climate_nyika-campbell-perscribed-burn.JPG" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
-Incomplete temperature data in Missoula, Montana makes long-term analysis difficult. Rcent daily means show a slight cooling since 2002, however longer-term min/max data shows predictable warming. Read the full post more about Nyika's past work in with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
+Incomplete temperature data in Missoula, Montana makes long-term analysis difficult. Recent daily means show a slight cooling since 2002, however longer-term min/max data seems to show predictable warming. Read the full post about Nyika's past work with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
 
 <embed type="text/html" src="img/post_climate_missoula2-minmax.html" width="100%" height="600">
 
