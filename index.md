@@ -46,10 +46,8 @@ Missoula, Montana has been warming about one-fifth of a degree C per decade (0.0
 
 <img src="img/post_migration_whooping-crane-training.JPG" alt="A USGS scientist trains a whooping crane chick for reintroduction" style="width: 100%; max-width: 600px; height: auto;">
 
-Whooping Cranes, (latin) are a magestic bird 
+Whooping Cranes, (latin) are a majestic bird 
 
-<img src="img/post_climate_missoula-fig.jpeg" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
-
-<embed type="text/html" src="img/post_climate_missoula2-minmax.html" width="100%" height="600">
+<embed type="text/html" src="img\post_migration_crane-map.html" width="100%" height="600">
 
 ----
