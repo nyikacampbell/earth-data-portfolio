@@ -31,7 +31,7 @@ Here is a map of the John Marr Lab at the university of Colorado, Boulder Mounta
 <embed type="text/html" src="img/post_map_marrlab.html" width="100%" height="600">
 
 ----
-#### [Temperature Trends in Missoula, Montana](portfolio_posts/climate_missoula-temperature)
+#### [Temperature Trends in Missoula, Montana](portfolio-posts/climate_missoula-temperature)
 
 <img src="img/post_climate_nyika-campbell-perscribed-burn.JPG" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
@@ -42,7 +42,7 @@ Missoula, Montana has been warming about one-fifth of a degree C per decade (0.0
 <embed type="text/html" src="img/post_climate_missoula2-minmax.html" width="100%" height="600">
 
 ----
-#### [Whooping Crane Migration](portfolio_posts/migration_whooping-crane)
+#### [Whooping Crane Migration](portfolio-posts/migration_whooping-crane)
 
 <img src="img/post_migration_whooping-crane-training.jpg" alt="A USGS scientist trains a whooping crane chick for reintroduction" style="width: 100%; max-width: 600px; height: auto;">
 
