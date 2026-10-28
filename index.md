@@ -35,7 +35,7 @@ Here is a map of the John Marr Lab at the university of Colorado, Boulder Mounta
 
 <img src="img/post_climate_nyika-campbell-perscribed-burn.JPG" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
-Missoula, Montana has been warming about one-fifth of a degree C per decade (0.02 degrees C per year) since 2002. Additionally, longer-term min/max data from 1950 to present shows a similar steady warming trend. These warmer temperatures could contribute to more severe fire in the state. Read the full post about Nyika's past work with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio_posts/climate_missoula-temperature.html).
+Missoula, Montana has been warming about one-fifth of a degree C per decade (0.02 degrees C per year) since 2002. Additionally, longer-term min/max data from 1950 to present shows a similar steady warming trend. These warmer temperatures could contribute to more severe fire in the state. Read the full post about Nyika's past work with the [Missoula Fire Sciences Lab](https://research.fs.usda.gov/firelab) and the impact of temperature on fire danger [here](portfolio-posts/climate_missoula-temperature).
 
 <img src="img/post_climate_missoula-fig.jpg" alt="Nyika Campbell at a prescribed burn" style="width: 100%; max-width: 600px; height: auto;">
 
@@ -46,8 +46,8 @@ Missoula, Montana has been warming about one-fifth of a degree C per decade (0.0
 
 <img src="img/post_migration_whooping-crane-training.jpg" alt="A USGS scientist trains a whooping crane chick for reintroduction" style="width: 100%; max-width: 600px; height: auto;">
 
-Whooping Cranes, (latin) are a majestic bird 
+Whooping cranes, *Grus americana*, are a majestic bird that migrates though the midwestern US during springtime to spend raise young in northern marshes before heading south for the winter. Thanks to dedicated captive breeding and reintroduction efforts these endangerd birds are recovering from a population bottleneck of 21 non-migrating individuals in 1941 to over 70 migrating birds in 2025. Here you can follow the 2025 migration using public data from the [Global Biodiversity Information Facility](https://www.gbif.org/taxon/3HFDB). Read the full post about whooping crane migration [here](portfolio-posts/migration_whooping-crane).
 
-<embed type="text/html" src="img\post_migration_crane-map.html" width="100%" height="600">
+<embed type="text/html" src="img\post_migration_crane-map.html" width="100%" height="100%">
 
 ----
