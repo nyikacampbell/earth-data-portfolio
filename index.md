@@ -48,6 +48,6 @@ Missoula, Montana has been warming about one-fifth of a degree C per decade (0.0
 
 Whooping cranes, *Grus americana*, are a majestic bird that migrates though the midwestern US during springtime to spend raise young in northern marshes before heading south for the winter. Thanks to dedicated captive breeding and reintroduction efforts these endangered birds are recovering from a population bottleneck of 21 non-migrating individuals in 1941 to over 70 migrating birds in 2025. Here you can follow the 2025 migration using public data from the [Global Biodiversity Information Facility](https://www.gbif.org/taxon/3HFDB). Read the full post about whooping crane migration [here](portfolio-posts/migration_whooping-crane).
 
-<embed type="text/html" src="img\post_migration_crane-map.html" width="100%" height="100%">
+<embed type="text/html" src="img/post_migration_crane-map.html" width="100%" height="100%">
 
 ----
