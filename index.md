@@ -1,9 +1,4 @@
-# Nyika Campbell
-## *Earth Data Analytics Portfolio*
-<img
-  src="https://www.colorado.edu/instaar/sites/default/files/styles/large_image_style/public/2025-09/nyika-campbell.png?itok=VhvEsWPF"
-  alt="Nyika Campbell standing in front of a colorful mural"
-  width= "25%">
+# *A Project Portfolio for Earth Data Analytics*
   
 **Masters Student, University of Colorado, Boulder**
 
