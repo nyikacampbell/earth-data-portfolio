@@ -1,0 +1,32 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+@import "palette";
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-heading);
+}
+h3, h4, h5, h6 { color: var(--color-subheading); }
+
+a, header h1 a        { color: var(--color-link); }
+a:hover, a:focus      { color: var(--color-link-hover); }
+
+blockquote            { border-left-color: var(--color-accent); }
+hr, th, td            { border-color: var(--color-accent); }
+small, footer         { color: var(--color-muted); }
+
+/* ---- Header (logo area) ---- */
+header img {
+  max-width: 180px;
+  border-radius: 50%;   /* round logo; delete this line for square */
+}
+header p { color: var(--color-muted); }

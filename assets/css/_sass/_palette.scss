@@ -1,0 +1,36 @@
+// =============================
+// 1. PALETTE: hex codes live ONLY here
+// =============================
+:root {
+  --ochre:      #935C13;
+  --brick:      #AA411D;
+  --terracotta: #C96F2F;
+  --amber:      #EE9E00;
+  --mustard:    #BCA21A;
+  --sage:       #6E7B4A;
+  --olive:      #53571D;
+  --forest:     #194434;
+  --navy:       #0C283F;
+  --slate:      #727588;
+  --white:      #FFFFFF;
+  --cream:      #D9D3C4;
+  --black:      #000000;
+
+  // =============================
+  // 2. ROLES: which color does which job
+  // =============================
+  --color-bg:         var(--cream);
+  --color-text:       var(--black);
+  --color-heading:    var(--navy);
+  --color-subheading: var(--olive);
+  --color-link:       var(--ochre);
+  --color-link-hover: var(--brick);
+  --color-accent:     var(--sage);   // borders, lines, quote bars
+  --color-muted:      var(--slate);  // small or secondary text
+
+  // =============================
+  // 3. FONTS
+  // =============================
+  --font-heading: "Lora", Georgia, serif;
+  --font-body:    "Source Sans 3", Arial, sans-serif;
+}
