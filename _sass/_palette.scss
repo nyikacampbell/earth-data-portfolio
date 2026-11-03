@@ -12,6 +12,7 @@
   --forest:     #194434;
   --navy:       #0C283F;
   --slate:      #727588;
+  --gray:       #4A4A4A;
   --white:      #FFFFFF;
   --cream:      #D9D3C4;
   --black:      #000000;
@@ -23,10 +24,10 @@
   --color-text:       var(--black);
   --color-heading:    var(--navy);
   --color-subheading: var(--olive);
-  --color-link:       var(--ochre);
+  --color-link:       var(--forest);
   --color-link-hover: var(--brick);
   --color-accent:     var(--sage);   // borders, lines, quote bars
-  --color-muted:      var(--slate);  // small or secondary text
+  --color-muted:      var(--gray);  // small or secondary text
 
   // =============================
   // 3. FONTS
