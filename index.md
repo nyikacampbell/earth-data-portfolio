@@ -10,13 +10,6 @@ I study how alpine plant communities respond to changing environmental condition
 Working as a field ecologist in California, Idaho, Montana, and Colorado I’ve come to notice a persistent problem. Although modern technology and collaborative projects are allowing us to collect ecological data faster than ever, translating this data into actionable knowledge is still vexingly difficult. 
 Though most of the world depends on plant ecosystems, our tools for predicting plant community change are crude. Local-scale data collection is costly and current big-data frameworks do not effectively connect large-extent data to management needs. I am excited to use Earth Data Science to bridge this gap by linking local-scale plant community data with broad-extent environmental data to better capture the complexity of ecosystem interactions. I hope to leverage Earth Data Science to illuminate trends though space and time, developing a scalable, cost-effective way to anticipate ecosystem change and support data-driven management practices, specifically around plant community ecology.
 
-#### Follow my work!
-* GitHub: [github.com/nyikacampbell](https://github.com/nyikacampbell)    
-* LinkedIn:[linkedin.com/in/nyika-campbell-a82125182](https://www.linkedin.com/in/nyika-campbell-a82125182)
-* Personal Website: [nyikacampbell.wixsite.com](https://nyikacampbell.wixsite.com/home)
-* ORCID: [0009-0001-6882-508X](https://orcid.org/0009-0001-6882-508X)
-
-
 ## Class Assignments
 *Below are summaries of some of my class assignments. Read more about each assignment below*
 
