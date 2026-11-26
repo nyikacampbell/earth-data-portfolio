@@ -117,12 +117,16 @@ rsconnect/
 # graphs/
 
 #### REPO_SPECIFIC IGNORES ####
-# any data or output folders in any subdirectory at any level
-data/
+# any output or input folders in any subdirectory at any level
 output/
 outputs/
 input/
 inputs/
+
+# data folders (at any depth) are tracked, so the folder exists for anyone
+# who clones the repo, but their contents are ignored except for .keep
+**/data/*
+!**/data/.keep
 
 # Any folder containing 'scratch' including names that end with 'scratch' (case insensitive)
 *scratch/
