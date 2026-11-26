@@ -26,5 +26,5 @@ boundary_dir, ndvi_dir
   ```
   * retrieve with
   ```python
-  %store -r
+  %store -r portfolio_dir assignments_dir img_dir posts_dir
   ```
